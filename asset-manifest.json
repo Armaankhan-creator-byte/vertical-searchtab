@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vertical-searchtab/static/css/main.66ec9937.css",
+    "main.js": "/vertical-searchtab/static/js/main.ea3b96f0.js",
+    "index.html": "/vertical-searchtab/index.html",
+    "main.66ec9937.css.map": "/vertical-searchtab/static/css/main.66ec9937.css.map",
+    "main.ea3b96f0.js.map": "/vertical-searchtab/static/js/main.ea3b96f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66ec9937.css",
+    "static/js/main.ea3b96f0.js"
+  ]
+}
